@@ -8,10 +8,10 @@
 import SwiftUI
 
 @main
-struct Pocket_PhysicsApp: App {
+struct PocketPhysicsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            StartScreen()
         }
     }
 }
